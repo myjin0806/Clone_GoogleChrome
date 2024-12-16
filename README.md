@@ -5,7 +5,7 @@
 ## 작업기간 : 2024.08.20 - 2024.08.21
 
 ## 배포주소
-[Google Chrome](https://myjin0806.github.io/Clone_GoogleChrome/)
+[Google Chrome](https://myjin0806.github.io/clone_googlechrome/)
 
 ## 링크
 [와이어프레임](https://docs.google.com/presentation/d/1GrIkAb7BpoPvE7VQiu9HIFZ9LSevulPP/edit?usp=drive_link&ouid=116868756633642900730&rtpof=true&sd=true)
